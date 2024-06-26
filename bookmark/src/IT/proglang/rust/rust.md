@@ -5,6 +5,9 @@
 
 - 공식책: <https://doc.rust-lang.org/book><br/>
   원어로 된 공식 rust 안내서
-  
+
 - 자주 묻는 질문들: <https://prev.rust-lang.org/ko-KR/faq.html><br/>
   공식 FAQ
+
+- 러스트를 배웁시다: <https://www.youtube.com/playlist?list=PLfllocyHVgsSJf1zO6k6o3SX2mbZjAqYE><br/>
+  외국인이 rust 가르쳐 주는 유튜브 영상
