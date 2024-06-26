@@ -11,3 +11,6 @@
 
 - 러스트를 배웁시다: <https://www.youtube.com/playlist?list=PLfllocyHVgsSJf1zO6k6o3SX2mbZjAqYE><br/>
   외국인이 rust 가르쳐 주는 유튜브 영상
+
+- 평범한 C개발자의 Rust입문기: Rust에 입문하는 C개발자를 위한 안내서: <https://wikidocs.net/book/12811><br/>
+  C언어 20년 개발자의 rust 적응기  
