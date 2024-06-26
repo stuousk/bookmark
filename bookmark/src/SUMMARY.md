@@ -13,6 +13,8 @@
   - [IoT](./IT/IoT/IoT.md)
     - [Raspberry pi](./IT/IoT/rasp/rasp.md)
 
+  - [게임](./IT/game/game.md)
+  
 - [글쓰기](./write/write.md)
   - [mdbook](./write/mdbook/mdbook.md)
 

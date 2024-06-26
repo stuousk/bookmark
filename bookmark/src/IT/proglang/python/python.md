@@ -1,8 +1,8 @@
 # python
 
 ## 기초
-- 점프 투 스프링부트: <https://wikidocs.net/book/7601><br/>
-  게시판 서비스를 만들어가는 과정을 설명한 입문서
+- 점프 투 파이썬: <https://wikidocs.net/book/1><br/>
+  파이썬 기초 설명
 
 ## 데이터 처리
 - Matplotlib Tutorial - 파이썬으로 데이터 시각화하기: <https://wikidocs.net/book/5011><br/>
